@@ -1,4 +1,5 @@
 import { Container, Text, VStack, Heading, Box, Button, Image } from "@chakra-ui/react";
+import CodeEditor from '../components/CodeEditor';
 import { Link } from "react-router-dom";
 import { FaCode, FaChalkboardTeacher, FaLaptopCode } from "react-icons/fa";
 
@@ -19,6 +20,7 @@ const Index = () => {
             Join as Instructor
           </Button>
         </Box>
+        <CodeEditor />
         <Box display="flex" justifyContent="center" alignItems="center" mt={8}>
           <FaLaptopCode size="50px" />
         </Box>
