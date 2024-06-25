@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "title": "Introduction to JavaScript",
+    "description": "Learn the basics of JavaScript, the most popular programming language in web development."
+  },
+  {
+    "id": 2,
+    "title": "Advanced CSS Techniques",
+    "description": "Take your CSS skills to the next level with advanced techniques and tools."
+  },
+  {
+    "id": 3,
+    "title": "React for Beginners",
+    "description": "Get started with React, a powerful library for building user interfaces."
+  }
+]
